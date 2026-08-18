@@ -160,11 +160,4 @@ Language files are located in `src/i18n/messages/`.
 7. Submit a pull request
 
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=justnode/better-saas&type=Date)](https://www.star-history.com/#justnode/better-saas&Date)
